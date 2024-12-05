@@ -81,9 +81,3 @@
 </div>
 
 ###
-
-<div align="left">
-  <img height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnphcGM3ZTZsZjh0YXBobmoycDZwZnVtMzZ4dW5pMGluYjd5Y3h2dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp"  />
-</div>
-
-###
