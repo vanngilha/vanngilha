@@ -59,7 +59,7 @@
 
 ###
 
-<p align="left">Frameworks and languages that I am looking to improve knowledge.</p>
+<p align="left">Frameworks, languages  and techs that I am looking to improve knowledge.</p>
 
 ###
 
