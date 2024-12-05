@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- PHP Developer<br>- Full Stack Developer at @iiBrasil</p>
+<p align="left">- PHP Developer<br>- Full Stack Developer at @iiBrasil<br><br> 🧑‍💻 Currently, I work with PHP and JavaScript. Always looking for new challenges, I take some free time to improve my knowledge. <br><br>⏰ I like games, documentaries and series that involve the world of technology and nature. I love diving and whenever the weather is good I practice snorkeling.</p>
 
 ###
 
