@@ -1,83 +1,83 @@
-<h2 align="left">About Me</h2>
+<h2 align="left">👋 About Me</h2>
 
-###
+<p align="left">
+  I'm a passionate <strong>Full Stack Developer</strong> currently working at <strong>@iiBrasil</strong>, specializing in <strong>PHP</strong> and <strong>JavaScript</strong>. I'm constantly exploring new challenges and technologies to expand my knowledge and improve my skill set.<br><br>
 
-<p align="left">- PHP Developer<br>- Full Stack Developer at @iiBrasil<br><br> 🧑‍💻 Currently, I work with PHP and JavaScript. Always looking for new challenges, I take some free time to improve my knowledge. <br><br>⏰ I like games, documentaries and series that involve the world of technology and nature. I love diving and whenever the weather is good I practice snorkeling.</p>
+  💼 With a solid background in backend development and experience in frontend technologies, I focus on building scalable and maintainable solutions.<br><br>
 
-###
+  🌱 In my free time, I enjoy learning about modern frameworks, contributing to personal projects, and staying up-to-date with trends in web development.<br><br>
 
-<h2 align="left">Technologies</h2>
+  ⚡ Fun facts: I'm a tech enthusiast who loves games, documentaries, and nature. On sunny days, you’ll probably find me snorkeling and enjoying the ocean.
+</p>
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" height="40" alt="phpstorm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" height="40" alt="bitbucket logo"  />
-</div>
-
-###
-
-<h2 align="left">Stats</h2>
-
-###
+<h2 align="left">🛠️ Tech Stack</h2>
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=vanngilha&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox_light&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vanngilha&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox_light&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" height="40" alt="PhpStorm" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" height="40" alt="Bitbucket" />
 </div>
 
-###
+---
 
-<h2 align="left">I'm studying</h2>
-
-###
+<h2 align="left">📊 GitHub Stats</h2>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=vanngilha&show_icons=true&count_private=true&theme=gruvbox_light&hide_border=false" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vanngilha&layout=compact&langs_count=6&theme=gruvbox_light&hide_border=false" height="150" />
 </div>
 
-###
+---
 
-<p align="left">Frameworks, languages  and techs that I am looking to improve knowledge.</p>
+<h2 align="left">📚 Currently Learning</h2>
 
-###
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="Laravel" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure" />
+</div>
+
+<p align="left">
+  I’m currently diving deeper into these technologies to expand my expertise in frontend frameworks, cloud computing, and modern PHP practices.
+</p>
+
+---
+
+<h2 align="left">📍 Connect with Me</h2>
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/vanngilha" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/vanngilha/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram" />
+  </a>
+</div>
+
+---
+
+<h2 align="left">🐍 Contribution Snake</h2>
 
 <img src="https://raw.githubusercontent.com/vanngilha/vanngilha/output/snake.svg" alt="Snake animation" />
 
-###
-
-<h2 align="left">Social Media</h2>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/feed/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/vanngilha/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-</div>
-
-###
+---
