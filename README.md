@@ -75,7 +75,7 @@
 
 <p align="left">
   🧠 I’m building my personal portfolio to showcase my work and certifications. Stay tuned or visit:  
-  <a href="https://github.com/vanngilha" target="_blank"><strong>https://github.com/vanngilha</strong></a>
+  <a href="https://github.com/vanngilha](https://www.linkedin.com/in/chriisoliveira/" target="_blank"><strong>https://github.com/vanngilha](https://www.linkedin.com/in/chriisoliveira/</strong></a>
 </p>
 
 ---
