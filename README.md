@@ -90,9 +90,3 @@
 </div>
 
 ---
-
-<h2 align="left">🐍 Contribution Snake</h2>
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/vanngilha/vanngilha/output/snake.svg" alt="Snake animation" />
-</p>
