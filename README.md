@@ -13,8 +13,8 @@
 <p align="left">
   Hello! I'm a <strong>Full Stack Developer</strong> working at <strong>@iiBrasil</strong>, focused on building efficient and scalable web applications using <strong>PHP</strong> and <strong>JavaScript</strong>.<br><br>
   
-  🔍 Always curious, I'm constantly exploring new tools, frameworks, and languages to keep up with industry trends.<br><br>
-  🎯 Passionate about clean code, problem solving, and delivering value through technology.<br><br>
+  🔍 Always curious, I'm constantly exploring new tools, frameworks, and languages to keep up with industry trends.<br>
+  🎯 Passionate about clean code, problem solving, and delivering value through technology.<br>
   🐬 Outside of coding, I enjoy snorkeling, nature documentaries, and tech-based series. I also love gaming and learning about how things work under the hood.
 </p>
 
