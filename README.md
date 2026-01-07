@@ -59,15 +59,9 @@ Currently improving my skills in **React**, **TypeScript**, and **Cloud (Azure)*
 ## GitHub Analytics
 
 <div align="left">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=vanngilha&show_icons=true&theme=github&hide_border=true"
-    height="150"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanngilha&layout=compact&theme=github&hide_border=true"
-    height="150"
-  />
-</div>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vanngilha&theme=default" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vanngilha&theme=default" height="150" />
+</div
 
 ---
 
