@@ -1,4 +1,8 @@
-<h2 align="center">👨‍💻 Welcome to My GitHub</h2>
+<h2 align="center">Full Stack Developer</h2>
+
+<p align="center">
+  <strong>PHP | Laravel | JavaScript | React</strong>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vanngilha&style=flat-square&color=blue" alt="Profile views" />
@@ -7,18 +11,23 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
-I’m a **Full Stack Developer** at **@iiBrasil**, focused on building scalable web applications with **PHP** and **JavaScript**.  
-I work with **Laravel**, RESTful APIs, and modern front-end tools, ensuring clean code, maintainability, and performance.  
+I am a **Full Stack Developer (Mid-Level)** at **iiBrasil**, working on the development and maintenance of **scalable web applications**.
 
-- 🔍 Always learning new frameworks, tools, and best practices  
-- 🎯 Passionate about problem-solving and delivering real value through technology  
-- 🌱 Currently improving my skills in **React**, **TypeScript**, and **Azure**  
+My main stack includes **PHP**, **Laravel**, and **JavaScript**, with experience in RESTful APIs, system integrations, and modern front-end frameworks.  
+I focus on writing **clean, readable, and maintainable code**, following best practices and contributing to team productivity.
+
+- Experience with RESTful APIs and backend integrations  
+- Solid knowledge of MVC architecture and Laravel ecosystem  
+- Collaboration with cross-functional teams (frontend, backend, and product)  
+- Continuous improvement through hands-on projects and certifications  
+
+Currently improving my skills in **React**, **TypeScript**, and **Cloud (Azure)**.
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" />
@@ -29,12 +38,25 @@ I work with **Laravel**, RESTful APIs, and modern front-end tools, ensuring clea
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" height="40" />
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## Certifications
+
+<div align="left">
+  <img src="https://img.shields.io/badge/PHP-Professional-blue?style=flat-square&logo=php" />
+  <img src="https://img.shields.io/badge/Laravel-Fundamentals-red?style=flat-square&logo=laravel" />
+  <img src="https://img.shields.io/badge/JavaScript-ES6%2B-yellow?style=flat-square&logo=javascript" />
+  <img src="https://img.shields.io/badge/REST%20APIs-Design%20%26%20Integration-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/Git-Version%20Control-orange?style=flat-square&logo=git" />
+</div>
+
+> ℹ️ Badges represent **technical competencies and completed training**, not official vendor certifications.
+
+---
+
+## GitHub Analytics
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=vanngilha&show_icons=true&count_private=true&theme=default&hide_border=true" height="150" />
@@ -43,21 +65,23 @@ I work with **Laravel**, RESTful APIs, and modern front-end tools, ensuring clea
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-- 🔍 **[Real-Time Color Detector](https://github.com/vanngilha/color-detector)** – Python + OpenCV project to identify and display colors from your webcam in real time.  
-- 🌐 More open-source and personal projects coming soon.  
+- **Real-Time Color Detector**  
+  Python + OpenCV application that detects and displays colors from a webcam feed in real time.  
+  🔗 https://github.com/vanngilha/color-detector
 
----
-
-## 🌐 Portfolio
-
-I’m building my personal portfolio to showcase projects and certifications.  
-👉 [LinkedIn Profile](https://www.linkedin.com/in/chriisoliveira/)
+More projects and case studies coming soon.
 
 ---
 
-## 📬 Connect
+## Professional Profiles
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/chriisoliveira)
+
+---
+
+## Contact
 
 <div align="left">
   <a href="https://www.linkedin.com/in/vanngilha" target="_blank">
