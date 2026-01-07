@@ -20,7 +20,7 @@ I focus on writing **clean, readable, and maintainable code**, following best pr
 
 - Experience with RESTful APIs and backend integrations  
 - Solid knowledge of MVC architecture and Laravel ecosystem  
-- Collaboration with cross-functional teams (frontend, backend, and product)  
+- Collaboration with cross-functional teams  
 - Continuous improvement through hands-on projects and certifications  
 
 Currently improving my skills in **React**, **TypeScript**, and **Cloud (Azure)**.
@@ -52,15 +52,21 @@ Currently improving my skills in **React**, **TypeScript**, and **Cloud (Azure)*
   <img src="https://img.shields.io/badge/Git-Version%20Control-orange?style=flat-square&logo=git" />
 </div>
 
-> ℹ️ Badges represent **technical competencies and completed training**, not official vendor certifications.
+> ℹ️ Badges represent technical competencies and completed training.
 
 ---
 
 ## GitHub Analytics
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=vanngilha&show_icons=true&count_private=true&theme=default&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vanngilha&layout=compact&langs_count=6&theme=default&hide_border=true" height="150" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=vanngilha&show_icons=true&theme=github&hide_border=true"
+    height="150"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanngilha&layout=compact&theme=github&hide_border=true"
+    height="150"
+  />
 </div>
 
 ---
