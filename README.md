@@ -1,7 +1,7 @@
 <h2 align="center">Full Stack Developer</h2>
 
 <p align="center">
-  <strong>PHP | Laravel | JavaScript | React</strong>
+  <strong>PHP | Laravel | JavaScript | MySQL</strong>
 </p>
 
 <p align="center">
