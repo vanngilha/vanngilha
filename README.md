@@ -50,7 +50,7 @@ Currently deepening my knowledge in **React**, **TypeScript**, and **Azure**.
 
 ## Featured Projects
 
-### 🟢 [TOTI — Artist Profile Website](https://github.com/vanngilha/profile-toti) · [Live](https://www.eutoti.com.br)
+### 🟢 [TOTI — Artist Profile Website](https://www.eutoti.com.br) · [Live](https://www.eutoti.com.br)
 > HTML · CSS · JavaScript
 
 Official website for TOTI, a Brazilian trap/rap artist from the new generation of national hip-hop. The site features a full artist profile with discography (Spotify integration), YouTube video embeds, photo gallery, team presentation, live show booking via WhatsApp, and a responsive, visually striking layout. Developed and deployed for real-world use.
