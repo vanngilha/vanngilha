@@ -1,6 +1,6 @@
 <div align="center">
 
-# Chrís Oliveira
+# Christopher Oliveira
 
 ### Full Stack Developer · PHP · Laravel · JavaScript
 
@@ -50,10 +50,10 @@ Currently deepening my knowledge in **React**, **TypeScript**, and **Azure**.
 
 ## Featured Projects
 
-### 🟢 [Toti — Financial Management Platform](https://github.com/vanngilha/toti)
-> Laravel · PHP · MySQL · REST API
+### 🟢 [TOTI — Artist Profile Website](https://github.com/vanngilha/profile-toti) · [Live](https://www.eutoti.com.br)
+> HTML · CSS · JavaScript
 
-Web platform for personal and business financial management. Features include transaction tracking, category management, financial reports, and a clean dashboard interface. Built with a focus on clean architecture and maintainability.
+Official website for TOTI, a Brazilian trap/rap artist from the new generation of national hip-hop. The site features a full artist profile with discography (Spotify integration), YouTube video embeds, photo gallery, team presentation, live show booking via WhatsApp, and a responsive, visually striking layout. Developed and deployed for real-world use.
 
 ---
 
