@@ -32,7 +32,7 @@
 
 ## 👨‍💻 About Me · Sobre Mim
 
-🇺🇸 **Full Stack Developer (Mid-Level)** at **iiBrasil Inteligência e Informação** since 2020 — started in technical support, transitioned into development, and now ship production features across the full stack.
+**Full Stack Developer (Mid-Level)** at **iiBrasil Inteligência e Informação** since 2020 — started in technical support, transitioned into development, and now ship production features across the full stack.
 
 My core strength is **PHP + Laravel** on the back-end: RESTful API design, Eloquent modeling, query optimization, ACL/auth modules, reporting systems, and third-party integrations (payments, ERP, cloud). I'm pragmatic, value clean and maintainable code, and like solutions that hold up under real workloads.
 
