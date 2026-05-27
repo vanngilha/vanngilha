@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/chriisoliveira">
     <img src="https://img.shields.io/badge/LinkedIn-chriisoliveira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:vanngmc@gmail.com">
+  <a href="mailto:ceo@chrisoliveira.dev">
     <img src="https://img.shields.io/badge/Email-vanngmc%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://api.whatsapp.com/send?phone=5512991065780">
