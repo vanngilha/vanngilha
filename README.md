@@ -5,6 +5,9 @@
 </a>
 
 <p>
+  <a href="https://www.chrisoliveira.dev">
+    <img src="https://img.shields.io/badge/🌐%20Portf%C3%B3lio-chrisoliveira.dev-7952B3?style=for-the-badge" />
+  </a>
   <a href="https://www.linkedin.com/in/chriisoliveira">
     <img src="https://img.shields.io/badge/LinkedIn-chriisoliveira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -34,9 +37,11 @@
 
 **Desenvolvedor Full Stack (Pleno)** na **iiBrasil Inteligência e Informação** desde 2020 — comecei em suporte técnico, migrei para desenvolvimento e hoje entrego features em produção em toda a stack.
 
-Minha maior força é **PHP + Laravel** no back-end: design de APIs RESTful, modelagem com Eloquent, otimização de queries, módulos de autenticação/ACL, sistemas de relatórios e integrações com APIs de terceiros (pagamentos, ERP, nuvem). Sou pragmático, valorizo código limpo e de fácil manutenção, e gosto de soluções que aguentam cargas reais de produção.
+No dia a dia trabalho com **sistemas legados, manutenção, criação de novas ferramentas e desenvolvimento web**. Minha maior força é **PHP + Laravel** no back-end: design de APIs RESTful, modelagem com Eloquent, otimização de queries, módulos de autenticação/ACL, sistemas de relatórios e integrações com APIs de terceiros (pagamentos, ERP, nuvem). Sou pragmático, valorizo código limpo e de fácil manutenção, e gosto de soluções que aguentam cargas reais de produção.
 
-Em paralelo, construo **produtos completos com IA** — usando **Claude** e o workflow **GSD (spec-driven)** em uma stack serverless moderna (**Supabase, Vercel, Render, Sentry**) com integrações de pagamento reais (**Mercado Pago, AbacatePay**). Meu projeto mais recente: [**Pato Passeio Ilhabela**](https://www.patopasseioilhabela.com) 🦆.
+Além de **desenvolver sistemas**, também tenho **conhecimento em utilizar IA** (Claude) como apoio no desenvolvimento — aplicando-a junto a uma stack serverless moderna (**Supabase, Vercel, Render, Sentry**) e integrações de pagamento reais (**Mercado Pago, AbacatePay**), como no projeto [**Pato Passeio Ilhabela**](https://www.patopasseioilhabela.com) 🦆.
+
+🌐 Conheça meu portfólio completo: **[chrisoliveira.dev](https://www.chrisoliveira.dev)**
 
 ---
 
@@ -44,11 +49,12 @@ Em paralelo, construo **produtos completos com IA** — usando **Claude** e o wo
 
 ```yaml
 🏢  cargo_atual:   Desenvolvedor Full Stack Pleno @ iiBrasil
-🔭  construindo:   Pato Passeio Ilhabela 🦆 (reservas + pagamentos)
-🤖  workflow_ia:   Claude · GSD (desenvolvimento spec-driven)
+🔧  atuando_com:   Sistemas legados, manutenção, novas ferramentas e dev web
+🤖  tambem_uso:    IA (Claude · GSD) como apoio no desenvolvimento
 🌱  aprendendo:    React · TypeScript · Supabase · Serverless
 🧭  metodologia:   Kanban agora · Scrum antes
 🎓  formacao:      ADS (Módulo) + MBA Gestão de Projetos (Faveni)
+🌐  portfolio:     https://www.chrisoliveira.dev
 🤝  aberto_a:      Novas oportunidades, freelas e colaborações
 ```
 
@@ -197,6 +203,9 @@ Aplicação desktop que identifica cores a partir de uma **webcam ao vivo** em t
 Estou aberto a novas oportunidades, freelas, colaborações técnicas e boas conversas.
 </p>
 
+<a href="https://www.chrisoliveira.dev">
+  <img src="https://img.shields.io/badge/Portf%C3%B3lio-7952B3?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
 <a href="https://www.linkedin.com/in/chriisoliveira">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
