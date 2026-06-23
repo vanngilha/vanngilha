@@ -89,7 +89,7 @@ No dia a dia trabalho com **sistemas legados, manutenção, criação de novas f
 | **Front-end** | JavaScript, jQuery, Bootstrap, Select2 · React + TypeScript |
 | **Banco de Dados** | MySQL, PostgreSQL · otimização de queries, stored procedures, modelagem relacional |
 | **Cloud & Infra** | Azure (Blob Storage), AWS, Supabase, Vercel, Render |
-| **DevOps & Obs.** | Docker, Git, Bitbucket, Linux, Sentry (monitoramento) |
+| **DevOps & Obs.** | Docker, Git, Bitbucket, Sentry (monitoramento) |
 | **Pagamentos** | Mercado Pago, AbacatePay (PIX) |
 | **Workflow com IA** | Claude (programação em par com IA) · GSD (desenvolvimento spec-driven) |
 | **Metodologia** | Kanban (atual) · Scrum (anterior) · code review, entregas ágeis |
