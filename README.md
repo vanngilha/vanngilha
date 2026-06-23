@@ -23,7 +23,7 @@
 </p>
 
 <a href="https://github.com/vanngilha">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=800&color=0A66C2&center=true&vCenter=true&width=620&lines=Building+scalable+web+apps+with+PHP+%26+Laravel;Designing+RESTful+APIs+%26+cloud+integrations;Currently+leveling+up+in+React+%2B+TypeScript+%2B+Azure;Movido+a+caf%C3%A9+e+inova%C3%A7%C3%A3o+%E2%98%95" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=800&color=0A66C2&center=true&vCenter=true&width=640&lines=Building+scalable+web+apps+with+PHP+%26+Laravel;Designing+RESTful+APIs+%26+cloud+integrations;Shipping+products+with+AI+-+Claude+%2B+GSD+workflow;Payments%2C+Supabase%2C+Vercel+%26+serverless+stack;Movido+a+caf%C3%A9+e+inova%C3%A7%C3%A3o+%E2%98%95" />
 </a>
 
 </div>
@@ -32,11 +32,13 @@
 
 ## 👨‍💻 About Me · Sobre Mim
 
-us **Full Stack Developer (Mid-Level)** at **iiBrasil Inteligência e Informação** since 2020 — started in technical support, transitioned into development, and now ship production features across the full stack.
+🇺🇸 **Full Stack Developer (Mid-Level)** at **iiBrasil Inteligência e Informação** since 2020 — started in technical support, transitioned into development, and now ship production features across the full stack.
 
 My core strength is **PHP + Laravel** on the back-end: RESTful API design, Eloquent modeling, query optimization, ACL/auth modules, reporting systems, and third-party integrations (payments, ERP, cloud). I'm pragmatic, value clean and maintainable code, and like solutions that hold up under real workloads.
 
-🇧🇷 Atuo como **Desenvolvedor de Software Pleno** na **iiBrasil** desde 2020 — comecei em suporte técnico e migrei para desenvolvimento. Hoje entrego features em produção em toda a stack, com foco em **PHP/Laravel**, APIs RESTful, integrações com Azure Blob Storage e refatoração de código legado.
+Lately I've been **shipping full products with AI** — using **Claude** and the **GSD (spec-driven) workflow** on a modern serverless stack (**Supabase, Vercel, Render, Sentry**) with real payment integrations (**Mercado Pago, AbacatePay**). My most recent build: [**Pato Passeio Ilhabela**](https://www.patopasseioilhabela.com) 🦆.
+
+🇧🇷 Atuo como **Desenvolvedor de Software Pleno** na **iiBrasil** desde 2020 — comecei em suporte técnico e migrei para desenvolvimento. Hoje entrego features em produção em toda a stack, com foco em **PHP/Laravel**, APIs RESTful, integrações com Azure Blob Storage e refatoração de código legado. Em paralelo, construo produtos completos com **IA (Claude + metodologia GSD)** em stack serverless moderna.
 
 > ☕ *Movido a café e inovação.*
 
@@ -46,8 +48,10 @@ My core strength is **PHP + Laravel** on the back-end: RESTful API design, Eloqu
 
 ```yaml
 🏢  current_role: Full Stack Developer Pleno @ iiBrasil
-🔭  currently_building: Laravel modules (auth, ACL, reporting), API integrations
-🌱  learning: React · TypeScript · Azure Cloud Services
+🔭  currently_building: Pato Passeio Ilhabela 🦆 (tour booking + payments)
+🤖  ai_workflow: Claude · GSD spec-driven development
+🌱  learning: React · TypeScript · Supabase · Serverless
+🧭  methodology: Kanban now · Scrum before
 🎓  education: ADS (Módulo) + MBA Project Management (Faveni)
 🤝  open_to: New opportunities, freelance projects, collaborations
 ⚡  fun_fact: Powered by coffee and curiosity
@@ -59,12 +63,22 @@ My core strength is **PHP + Laravel** on the back-end: RESTful API design, Eloqu
 
 ### Languages & Frameworks
 <p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,js,ts,react,bootstrap,html,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,postgres,js,ts,react,bootstrap,html,css&theme=dark" />
 </p>
 
-### Cloud, DevOps & Tools
+### Cloud, Infra & DevOps
 <p>
-  <img src="https://skillicons.dev/icons?i=azure,aws,docker,git,bitbucket,linux,vscode,postman&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=azure,aws,supabase,vercel,docker,git,bitbucket,linux,vscode,postman&theme=dark" />
+</p>
+
+### 🤖 AI Workflow, Payments & Monitoring
+<p>
+  <img src="https://img.shields.io/badge/Claude-AI%20Pair%20Dev-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/GSD-Spec--Driven-6E56CF?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Render-Deploy-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
+  <img src="https://img.shields.io/badge/Sentry-Monitoring-362D59?style=for-the-badge&logo=sentry&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mercado%20Pago-Payments-00B1EA?style=for-the-badge&logo=mercadopago&logoColor=white" />
+  <img src="https://img.shields.io/badge/AbacatePay-PIX-FF6B00?style=for-the-badge&logoColor=white" />
 </p>
 
 <details>
@@ -72,12 +86,14 @@ My core strength is **PHP + Laravel** on the back-end: RESTful API design, Eloqu
 
 | Area | Tools |
 |---|---|
-| **Back-end** | PHP, Laravel (Eloquent, Migrations, Service/Repository patterns, Middleware, ACL) |
-| **Front-end** | JavaScript, jQuery, Bootstrap, Select2 · learning React + TypeScript |
-| **Database** | MySQL (query optimization, stored procedures, relational modeling) |
-| **Cloud** | Azure Blob Storage · AWS (Educate certified) |
-| **DevOps** | Docker, Git, Bitbucket, Linux |
-| **Methodology** | Scrum, Kanban, code review, agile delivery |
+| **Back-end** | PHP, Laravel (Eloquent, Migrations, Service/Repository patterns, Middleware, ACL), REST APIs |
+| **Front-end** | JavaScript, jQuery, Bootstrap, Select2 · React + TypeScript |
+| **Database** | MySQL, PostgreSQL · query optimization, stored procedures, relational modeling |
+| **Cloud & Infra** | Azure (Blob Storage), AWS, Supabase, Vercel, Render |
+| **DevOps & Obs.** | Docker, Git, Bitbucket, Linux, Sentry (monitoring) |
+| **Payments** | Mercado Pago, AbacatePay (PIX) |
+| **AI Workflow** | Claude (AI pair programming) · GSD spec-driven development |
+| **Methodology** | Kanban (current) · Scrum (previous) · code review, agile delivery |
 
 </details>
 
@@ -98,6 +114,28 @@ My core strength is **PHP + Laravel** on the back-end: RESTful API design, Eloqu
 ---
 
 ## 🌟 Featured Projects
+
+### 🦆 [Pato Passeio Ilhabela](https://www.patopasseioilhabela.com) &nbsp;·&nbsp; *Flagship Project*
+
+`React` · `TypeScript` · `Supabase` · `Vercel` · `Render` · `Mercado Pago` · `AbacatePay` · `Sentry`
+
+Online **booking platform for duck-boat tours in Ilhabela** 🛥️ — built end-to-end on a modern serverless stack, with real payment processing and **AI-assisted development (Claude + GSD spec-driven workflow)**.
+
+- 🎟️ Tour scheduling & online reservations
+- 💳 Integrated payments — **Mercado Pago** + **AbacatePay** (PIX)
+- 🗄️ **Supabase** backend — PostgreSQL, auth & storage
+- ☁️ Deployed on **Vercel / Render**, with **Sentry** error monitoring
+- 🤖 Built with **Claude AI** following the **GSD** methodology
+
+<p>
+  <a href="https://www.patopasseioilhabela.com">
+    <img src="https://img.shields.io/badge/🦆%20Live%20Site-patopasseioilhabela.com-0A66C2?style=for-the-badge" />
+  </a>
+</p>
+
+---
+
+### More Projects
 
 <table>
 <tr>
@@ -168,8 +206,8 @@ Estou aberto a novas oportunidades, freelas, colaborações técnicas e boas con
 <a href="https://www.linkedin.com/in/chriisoliveira">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:vanngmc@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="mailto:ceo@chrisoliveira.dev">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://www.instagram.com/vanngilha/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
