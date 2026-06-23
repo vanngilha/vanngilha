@@ -89,7 +89,7 @@ Lately I've been **shipping full products with AI** — using **Claude** and the
 | **Front-end** | JavaScript, jQuery, Bootstrap, Select2 · React + TypeScript |
 | **Database** | MySQL, PostgreSQL · query optimization, stored procedures, relational modeling |
 | **Cloud & Infra** | Azure (Blob Storage), AWS, Supabase, Vercel, Render |
-| **DevOps & Obs.** | Docker, Git, Bitbucket, Linux, Sentry (monitoring) |
+| **DevOps & Obs.** | Docker, Git, Bitbucket, Sentry (monitoring) |
 | **Payments** | Mercado Pago, AbacatePay (PIX) |
 | **AI Workflow** | Claude (AI pair programming) · GSD spec-driven development |
 | **Methodology** | Kanban (current) · Scrum (previous) · code review, agile delivery |
