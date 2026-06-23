@@ -39,8 +39,6 @@
 
 No dia a dia trabalho com **sistemas legados, manutenção, criação de novas ferramentas e desenvolvimento web**. Minha maior força é **PHP + Laravel** no back-end: design de APIs RESTful, modelagem com Eloquent, otimização de queries, módulos de autenticação/ACL, sistemas de relatórios e integrações com APIs de terceiros (pagamentos, ERP, nuvem). Sou pragmático, valorizo código limpo e de fácil manutenção, e gosto de soluções que aguentam cargas reais de produção.
 
-Além de **desenvolver sistemas**, também tenho **conhecimento em utilizar IA** (Claude) como apoio no desenvolvimento — aplicando-a junto a uma stack serverless moderna (**Supabase, Vercel, Render, Sentry**) e integrações de pagamento reais (**Mercado Pago, AbacatePay**), como no projeto [**Pato Passeio Ilhabela**](https://www.patopasseioilhabela.com) 🦆.
-
 🌐 Conheça meu portfólio completo: **[chrisoliveira.dev](https://www.chrisoliveira.dev)**
 
 ---
