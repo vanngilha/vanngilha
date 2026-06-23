@@ -40,7 +40,6 @@ Lately I've been **shipping full products with AI** — using **Claude** and the
 
 🇧🇷 Atuo como **Desenvolvedor de Software Pleno** na **iiBrasil** desde 2020 — comecei em suporte técnico e migrei para desenvolvimento. Hoje entrego features em produção em toda a stack, com foco em **PHP/Laravel**, APIs RESTful, integrações com Azure Blob Storage e refatoração de código legado. Em paralelo, construo produtos completos com **IA (Claude + metodologia GSD)** em stack serverless moderna.
 
-> ☕ *Movido a café e inovação.*
 
 ---
 
