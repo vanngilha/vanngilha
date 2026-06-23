@@ -36,8 +36,6 @@
 
 My core strength is **PHP + Laravel** on the back-end: RESTful API design, Eloquent modeling, query optimization, ACL/auth modules, reporting systems, and third-party integrations (payments, ERP, cloud). I'm pragmatic, value clean and maintainable code, and like solutions that hold up under real workloads.
 
-Lately I've been **shipping full products with AI** — using **Claude** and the **GSD (spec-driven) workflow** on a modern serverless stack (**Supabase, Vercel, Render, Sentry**) with real payment integrations (**Mercado Pago, AbacatePay**). My most recent build: [**Pato Passeio Ilhabela**](https://www.patopasseioilhabela.com) 🦆.
-
 🇧🇷 Atuo como **Desenvolvedor de Software Pleno** na **iiBrasil** desde 2020 — comecei em suporte técnico e migrei para desenvolvimento. Hoje entrego features em produção em toda a stack, com foco em **PHP/Laravel**, APIs RESTful, integrações com Azure Blob Storage e refatoração de código legado. Em paralelo, construo produtos completos com **IA (Claude + metodologia GSD)** em stack serverless moderna.
 
 
