@@ -118,13 +118,11 @@ No dia a dia trabalho com **sistemas legados, manutenção, criação de novas f
 
 `React` · `TypeScript` · `Supabase` · `Vercel` · `Render` · `Mercado Pago` · `AbacatePay` · `Sentry`
 
-**Plataforma de reservas para passeios de barco em Ilhabela** 🛥️ — construída de ponta a ponta em uma stack serverless moderna, com processamento de pagamentos real e **desenvolvimento assistido por IA (Claude + workflow GSD spec-driven)**.
+**Plataforma de reservas para passeios de barco em Ilhabela** 🛥️ — construída de ponta a ponta em uma stack serverless moderna.
 
 - 🎟️ Agendamento de passeios & reservas online
-- 💳 Pagamentos integrados — **Mercado Pago** + **AbacatePay** (PIX)
 - 🗄️ Back-end em **Supabase** — PostgreSQL, autenticação & storage
 - ☁️ Deploy em **Vercel / Render**, com monitoramento de erros via **Sentry**
-- 🤖 Construído com **Claude AI** seguindo a metodologia **GSD**
 
 <p>
   <a href="https://www.patopasseioilhabela.com">
