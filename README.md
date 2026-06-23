@@ -120,7 +120,7 @@ No dia a dia trabalho com **sistemas legados, manutenção, criação de novas f
 
 **Plataforma de reservas para passeios de barco em Ilhabela** 🛥️ — construída de ponta a ponta em uma stack serverless moderna.
 
-- 🎟️ Agendamento de passeios & reservas online
+- 🎟️ Agendamento de passeios & reservas online via WhatsApp
 - 🗄️ Back-end em **Supabase** — PostgreSQL, autenticação & storage
 - ☁️ Deploy em **Vercel / Render**, com monitoramento de erros via **Sentry**
 
