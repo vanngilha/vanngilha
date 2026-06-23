@@ -26,7 +26,7 @@
 </p>
 
 <a href="https://github.com/vanngilha">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=800&color=0A66C2&center=true&vCenter=true&width=640&lines=CConstruindo+aplica%C3%A7%C3%B5es+web+escal%C3%A1veis+com+PHP+%26+Laravel;Projetando+APIs+RESTful+%26+integra%C3%A7%C3%B5es+em+nuvem;Criando+produtos+com+IA+-+Claude+%2B+workflow+GSD;Pagamentos%2C+Supabase%2C+Vercel+%26+stack+serverless" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=800&color=0A66C2&center=true&vCenter=true&width=640&lines=CCConstruindo+aplica%C3%A7%C3%B5es+web+escal%C3%A1veis+com+PHP+%26+Laravel;Projetando+APIs+RESTful+%26+integra%C3%A7%C3%B5es+em+nuvem;Criando+produtos+com+IA+-+Claude+%2B+workflow+GSD;Pagamentos%2C+Supabase%2C+Vercel+%26+stack+serverless" />
 </a>
 
 </div>
