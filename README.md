@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://www.chrisoliveira.dev">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:7952B3&height=200&section=header&text=Christopher%20Oliveira&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=Full%20Stack%20%C2%B7%20Backend%20PHP%20%26%20Laravel%20%C2%B7%20Sistemas%20em%20produ%C3%A7%C3%A3o&descSize=16&descAlignY=58&animation=fadeIn" alt="Christopher Oliveira — Full Stack, Backend PHP e Laravel" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:7952B3&height=200&section=header&text=Christopher%20Oliveira&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=Full%20Stack%20%C2%B7%20Backend%20PHP%20e%20Laravel%20%C2%B7%20Sistemas%20em%20produ%C3%A7%C3%A3o&descSize=16&descAlignY=58&animation=fadeIn&v=2" alt="Christopher Oliveira — Full Stack, Backend PHP e Laravel" />
 </a>
 
 <p>
@@ -192,6 +192,10 @@ Jogo web 3D multiplayer de exploração e pesca, com física, ranking e loja int
 
 Aplicação desktop que identifica cores pela webcam ao vivo usando visão computacional, exibindo o nome da cor e os valores RGB na tela.
 
+<br>
+
+> A maior parte do meu trabalho — sistemas corporativos e projetos de clientes — está em repositórios privados. Os sites acima estão no ar e são o melhor retrato do que eu construo.
+
 ---
 
 ## Certificações
@@ -199,18 +203,6 @@ Aplicação desktop que identifica cores pela webcam ao vivo usando visão compu
 - **[CS50x — Introdução à Ciência da Computação](https://certificates.cs50.io/81532b44-9b96-4a68-bf98-cd162cff7011.pdf?size=letter)** · *Harvard University*
 - **[AWS Educate — Introdução à Nuvem 101](https://www.credly.com/badges/c719bd98-a004-432f-9f88-b9613179c0a8/public_url)**
 - **[AWS Educate — Introdução à Segurança na Nuvem](https://www.credly.com/badges/b033e451-6ff9-42ac-ae50-4d585974dcfa/public_url)**
-
----
-
-## GitHub
-
-<div align="center">
-  <img height="165" src="https://streak-stats.demolab.com/?user=vanngilha&locale=pt_BR&theme=tokyonight&hide_border=true&background=0D1117&ring=0A66C2&fire=7952B3&currStreakLabel=0A66C2" alt="Sequência de contribuições" />
-</div>
-
-<div align="center">
-<sub>A maior parte do meu trabalho — sistemas corporativos e projetos de clientes — está em repositórios privados. Os sites acima estão no ar e são o melhor retrato do que eu construo.</sub>
-</div>
 
 ---
 
