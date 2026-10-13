@@ -1,11 +1,11 @@
 <div align="center">
 
 <a href="https://www.chrisoliveira.dev">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,50:7952B3,100:D97757&height=220&section=header&text=Christopher%20Oliveira&fontColor=ffffff&fontSize=46&fontAlignY=36&desc=Full%20Stack%20%C2%B7%20Backend%20PHP%20e%20Laravel%20%C2%B7%20Desenvolvimento%20com%20IA&descSize=17&descAlignY=57&animation=fadeIn&v=3" alt="Christopher Oliveira — Full Stack, Backend PHP e Laravel, desenvolvimento com IA" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,50:7952B3,100:D97757&height=220&section=header&text=Christopher%20Oliveira&fontColor=ffffff&fontSize=46&fontAlignY=36&desc=Full%20Stack%20%C2%B7%20Backend%20PHP%20e%20Laravel%20%C2%B7%20Desenvolvimento%20com%20IA&descSize=17&descAlignY=57&animation=fadeIn&v=3" alt="Christopher Oliveira, Full Stack, Backend PHP e Laravel, desenvolvimento com IA" />
 </a>
 
 <a href="https://www.chrisoliveira.dev">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=7952B3&center=true&vCenter=true&width=720&lines=Desenvolvedor+Full+Stack+com+foco+em+Backend;PHP+%2B+Laravel+%C2%B7+APIs+REST+%C2%B7+PostgreSQL+%2F+MySQL;Sistemas+legados+em+produ%C3%A7%C3%A3o+desde+2020;Claude+Code+%2B+skills+no+meu+fluxo+de+trabalho;Do+zero+ao+deploy+%E2%80%94+com+teste+e+CI" alt="PHP, Laravel, sistemas em produção e desenvolvimento com Claude" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=7952B3&center=true&vCenter=true&width=720&lines=Desenvolvedor+Full+Stack+com+foco+em+Backend;PHP+%2B+Laravel+%C2%B7+APIs+REST+%C2%B7+PostgreSQL+%2F+MySQL;Sistemas+legados+em+produ%C3%A7%C3%A3o+desde+2020;Claude+Code+%2B+skills+no+meu+fluxo+de+trabalho;Do+zero+ao+deploy%2C+com+teste+e+CI" alt="PHP, Laravel, sistemas em produção e desenvolvimento com Claude" />
 </a>
 
 <p>
@@ -17,7 +17,7 @@
 
 <p>
   <img src="https://img.shields.io/badge/%F0%9F%9F%A2%20Dispon%C3%ADvel-vagas%20%C2%B7%20freelas%20%C2%B7%20colabora%C3%A7%C3%B5es-2EA043?style=flat-square&labelColor=0d1117" alt="Disponível para vagas, freelas e colaborações" />
-  <img src="https://img.shields.io/badge/Ilhabela%2C%20SP%20%E2%80%94%20Brasil-0d1117?style=flat-square&labelColor=0d1117&color=7952B3" alt="Localização" />
+  <img src="https://img.shields.io/badge/Ilhabela%2C%20SP%2C%20Brasil-0d1117?style=flat-square&labelColor=0d1117&color=7952B3" alt="Localização" />
   <img src="https://komarev.com/ghpvc/?username=vanngilha&style=flat-square&color=0A66C2&labelColor=0d1117&label=Visitas" alt="Visitas ao perfil" />
   <img src="https://img.shields.io/github/followers/vanngilha?label=Seguidores&style=flat-square&color=0A66C2&labelColor=0d1117" alt="Seguidores" />
 </p>
@@ -39,16 +39,16 @@
 
 ## 👨‍💻 Sobre mim
 
-**Desenvolvedor Full Stack** na **iiBrasil Inteligência e Informação** desde 2020 — entrei em suporte técnico, migrei para desenvolvimento e hoje entrego em toda a stack.
+**Desenvolvedor Full Stack** na **iiBrasil Inteligência e Informação** desde 2020. Entrei em suporte técnico, migrei para desenvolvimento e hoje entrego em toda a stack.
 
 No trabalho mantenho e evoluo **sistemas corporativos de gestão em produção**, com base legada em **PHP e MySQL**. Trabalhar com legado me ensinou o que curso nenhum ensina: ler código dos outros, mudar o que é crítico sem quebrar o que funciona e resolver problema de verdade, com restrição de verdade.
 
-Minha maior força é **backend com PHP e Laravel** — APIs REST, modelagem com Eloquent, otimização de queries, autenticação/ACL, filas, eventos, relatórios e integração com serviços de terceiros. Em paralelo, construo **produtos completos do zero** — e-commerce com painel admin, sites para clientes reais e um marketplace de turismo com pagamentos e tempo real.
+Minha maior força é **backend com PHP e Laravel**: APIs REST, modelagem com Eloquent, otimização de queries, autenticação/ACL, filas, eventos, relatórios e integração com serviços de terceiros. Em paralelo, construo **produtos completos do zero**: e-commerce com painel admin, sites para clientes reais e um marketplace de turismo com pagamentos e tempo real.
 
 ```yaml
 cargo_atual:  Desenvolvedor Full Stack @ iiBrasil (desde 2020)
 atuando_com:  Sistemas legados, APIs, novas features e manutenção crítica
-paralelo:     Produtos próprios e para clientes — do zero ao deploy
+paralelo:     Produtos próprios e para clientes, do zero ao deploy
 foco:         Backend PHP/Laravel · arquitetura · banco de dados
 ia:           Claude Code com skills de planejamento, review e segurança
 metodologia:  Kanban (atual) · Scrum (anterior)
@@ -65,7 +65,7 @@ aberto_a:     Vagas backend/full stack, freelas e colaborações
   <img src="https://img.shields.io/badge/Skills-fluxo%20estruturado-191919?style=for-the-badge&logo=anthropic&logoColor=white" alt="Skills" />
 </p>
 
-Uso o **Claude Code** no dia a dia — não como gerador de código solto, e sim dentro de um **fluxo com etapas, critérios e verificação**. Configurei um conjunto de **skills** que transformam cada feature num ciclo previsível: discutir → planejar → executar → verificar → revisar → entregar. A IA acelera; **a decisão de arquitetura, a revisão e a responsabilidade pelo código são minhas**.
+Uso o **Claude Code** no dia a dia, mas não como gerador de código solto, e sim dentro de um **fluxo com etapas, critérios e verificação**. Configurei um conjunto de **skills** que transformam cada feature num ciclo previsível: discutir → planejar → executar → verificar → revisar → entregar. A IA acelera; **a decisão de arquitetura, a revisão e a responsabilidade pelo código são minhas**.
 
 ```mermaid
 flowchart LR
@@ -96,7 +96,7 @@ flowchart LR
 
 </details>
 
-> **Resultado prático:** no Guivya esse fluxo conduziu auditorias completas (dezenas de bugs confirmados e corrigidos em lotes de PR), a migração de gateway de pagamento e a política de CSP sem `unsafe-inline` — sempre com testes e CI verdes antes do merge.
+> **Resultado prático:** no Guivya esse fluxo conduziu auditorias completas (dezenas de bugs confirmados e corrigidos em lotes de PR), a migração de gateway de pagamento e a política de CSP sem `unsafe-inline`, sempre com testes e CI verdes antes do merge.
 
 ---
 
@@ -118,7 +118,7 @@ flowchart LR
 </p>
 
 <details>
-<summary><b>Detalhes da stack — o que uso de verdade no dia a dia</b></summary>
+<summary><b>Detalhes da stack: o que uso de verdade no dia a dia</b></summary>
 
 <br>
 
@@ -139,13 +139,13 @@ flowchart LR
 
 ## 🚀 Projetos
 
-### 🏝️ Guivya — marketplace de passeios &nbsp;`em desenvolvimento` &nbsp;·&nbsp; o case de backend
+### 🏝️ Guivya · marketplace de passeios &nbsp;`em desenvolvimento` &nbsp;·&nbsp; o case de backend
 
 `PHP 8.2` · `Laravel 12` · `PostgreSQL` · `Pusher / Laravel Echo` · `Leaflet` · `Mercado Pago` · `Docker` · `Vite` · `Tailwind CSS`
 
 Marketplace que conecta turistas a guias locais de Ilhabela, com reserva em tempo real no modelo dos apps de mobilidade.
 
-**O problema:** uma reserva envolve dois lados ao vivo — o turista pede, o guia tem 60 segundos para aceitar, o pagamento precisa ser confirmado e os dois se encontram num ponto da ilha. Nada disso funciona com site estático: exige estado em tempo real, transições consistentes e dinheiro tratado com cuidado.
+**O problema:** uma reserva envolve dois lados ao vivo. O turista pede, o guia tem 60 segundos para aceitar, o pagamento precisa ser confirmado e os dois se encontram num ponto da ilha. Nada disso funciona com site estático: exige estado em tempo real, transições consistentes e dinheiro tratado com cuidado.
 
 ```mermaid
 stateDiagram-v2
@@ -169,7 +169,7 @@ stateDiagram-v2
 - Passeios agendados: ativação por cron, lembretes T-24h/T-2h e geofence de chegada
 - **570+ testes automatizados**, CI em três versões de PHP, CSP sem `unsafe-inline` e monitoramento com Sentry
 
-> 🔒 Repositório privado — posso apresentar o código e a arquitetura numa conversa.
+> 🔒 Repositório privado. Posso apresentar o código e a arquitetura numa conversa.
 
 <br>
 
@@ -262,7 +262,7 @@ Aplicação desktop que identifica cores pela webcam ao vivo usando visão compu
   </tr>
 </table>
 
-> A maior parte do meu trabalho — sistemas corporativos e projetos de clientes — está em repositórios privados. Os sites acima estão no ar e são o melhor retrato do que eu construo.
+> A maior parte do meu trabalho (sistemas corporativos e projetos de clientes) está em repositórios privados. Os sites acima estão no ar e são o melhor retrato do que eu construo.
 
 ---
 
@@ -275,7 +275,7 @@ Aplicação desktop que identifica cores pela webcam ao vivo usando visão compu
 </p>
 
 - 🎓 **Análise e Desenvolvimento de Sistemas**
-- 📊 **MBA em Gerenciamento de Projetos** — Faveni
+- 📊 **MBA em Gerenciamento de Projetos** · Faveni
 - 📚 Atualmente me aprofundando em **arquitetura de software** e nos padrões que fazem um sistema aguentar crescimento
 
 ---
