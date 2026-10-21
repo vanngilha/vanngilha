@@ -1,63 +1,68 @@
 <div align="center">
 
-# Christopher Oliveira
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:100f0d,100:2b2117&height=210&section=header&text=Christopher%20Oliveira&fontColor=d9a05b&fontSize=50&fontAlignY=36&desc=Desenvolvedor%20Full%20Stack%20%C2%B7%20Backend&descSize=18&descAlignY=56&animation=fadeIn" width="100%" alt="Christopher Oliveira"/>
 
-### Desenvolvedor Full Stack · Backend
+<a href="https://www.chrisoliveira.dev">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=D9A05B&center=true&vCenter=true&width=620&lines=PHP+%C2%B7+Laravel+%C2%B7+PostgreSQL+%C2%B7+APIs+REST;Sistemas+corporativos+em+produ%C3%A7%C3%A3o+desde+2020;Integra%C3%A7%C3%B5es+com+terceiros+e+pagamentos;Produtos+completos+do+zero+ao+deploy" alt="Typing SVG"/>
+</a>
 
-**PHP · Laravel · PostgreSQL · APIs REST**
-
-Sistemas corporativos em produção desde 2020, integrações com terceiros e produtos completos do zero ao deploy.
+<br><br>
 
 [![Portfólio](https://img.shields.io/badge/PORTF%C3%93LIO-100f0d?style=for-the-badge&logo=googlechrome&logoColor=d9a05b)](https://www.chrisoliveira.dev)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-100f0d?style=for-the-badge&logo=linkedin&logoColor=d9a05b)](https://www.linkedin.com/in/chriisoliveira)
 [![Email](https://img.shields.io/badge/EMAIL-100f0d?style=for-the-badge&logo=gmail&logoColor=d9a05b)](mailto:ceo@chrisoliveira.dev)
 [![WhatsApp](https://img.shields.io/badge/WHATSAPP-100f0d?style=for-the-badge&logo=whatsapp&logoColor=d9a05b)](https://api.whatsapp.com/send?phone=5512991065780)
 
-<sub>Ilhabela, SP · Aberto a vagas Backend e Full Stack (CLT ou PJ) e freelas</sub>
+<img src="https://img.shields.io/badge/%F0%9F%93%8D%20Ilhabela%2C%20SP-2b2117?style=flat-square&labelColor=2b2117&color=2b2117" alt="Ilhabela, SP"/>
+<img src="https://img.shields.io/badge/Aberto%20a-Backend%20%C2%B7%20Full%20Stack%20%C2%B7%20Freelas-d9a05b?style=flat-square&labelColor=100f0d" alt="Aberto a vagas"/>
 
-<br>
+<br><br>
 
 <table>
-<tr>
-<td align="center" width="25%"><h3>6+ anos</h3><sub>em produção</sub></td>
-<td align="center" width="25%"><h3>570+</h3><sub>testes automatizados</sub></td>
-<td align="center" width="25%"><h3>5</h3><sub>produtos no ar</sub></td>
-<td align="center" width="25%"><h3>PHP 8.2 a 8.4</h3><sub>matriz de CI</sub></td>
-</tr>
+  <tr>
+    <td align="center" width="170"><h2>6+</h2><sub>anos em produção</sub></td>
+    <td align="center" width="170"><h2>570+</h2><sub>testes automatizados</sub></td>
+    <td align="center" width="170"><h2>5</h2><sub>produtos no ar</sub></td>
+    <td align="center" width="170"><h2>8.2 → 8.4</h2><sub>matriz de CI em PHP</sub></td>
+  </tr>
 </table>
 
 </div>
 
+<br>
+
 ## Sobre mim
 
-Desenvolvedor Full Stack na **iiBrasil Inteligência e Informação** desde 2020. Comecei no suporte técnico, passei para o desenvolvimento e hoje mantenho e modernizo sistemas corporativos de gestão pública que rodam em produção todos os dias.
+Desenvolvedor Full Stack na **iiBrasil Inteligência e Informação** desde 2020. Comecei no suporte técnico, passei para o desenvolvimento e hoje mantenho e modernizo **sistemas corporativos de gestão pública** que rodam em produção todos os dias.
 
-Meu forte é **backend com PHP e Laravel**: regras de negócio complexas, APIs REST, modelagem relacional, otimização de SQL, controle de acesso, filas e integração entre sistemas. Trabalhar com legado me ensinou a mudar o que é crítico sem quebrar o que funciona, cuidando de integridade dos dados, segurança e desempenho.
+Meu forte é **backend com PHP e Laravel**: regras de negócio complexas, APIs REST, modelagem relacional, otimização de SQL, controle de acesso, filas e integração entre sistemas. Trabalhar com legado me ensinou a **mudar o que é crítico sem quebrar o que funciona**, cuidando de integridade dos dados, segurança e desempenho.
 
 Em paralelo, construo produtos para clientes reais e projetos próprios, cuidando do ciclo inteiro: arquitetura, banco, frontend, infraestrutura, testes e deploy.
 
-**Formação:** Análise e Desenvolvimento de Sistemas · Pós-graduação (MBA) em Gerenciamento de Projetos
+> **Formação:** Análise e Desenvolvimento de Sistemas &nbsp;·&nbsp; MBA em Gerenciamento de Projetos
+
+<br>
 
 ## Stack
 
 <div align="center">
 
-![PHP](https://img.shields.io/badge/PHP-100f0d?style=flat-square&logo=php&logoColor=d9a05b)
-![Laravel](https://img.shields.io/badge/Laravel-100f0d?style=flat-square&logo=laravel&logoColor=d9a05b)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-100f0d?style=flat-square&logo=postgresql&logoColor=d9a05b)
-![MySQL](https://img.shields.io/badge/MySQL-100f0d?style=flat-square&logo=mysql&logoColor=d9a05b)
-![TypeScript](https://img.shields.io/badge/TypeScript-100f0d?style=flat-square&logo=typescript&logoColor=d9a05b)
-![JavaScript](https://img.shields.io/badge/JavaScript-100f0d?style=flat-square&logo=javascript&logoColor=d9a05b)
-![React](https://img.shields.io/badge/React-100f0d?style=flat-square&logo=react&logoColor=d9a05b)
-![Next.js](https://img.shields.io/badge/Next.js-100f0d?style=flat-square&logo=nextdotjs&logoColor=d9a05b)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-100f0d?style=flat-square&logo=tailwindcss&logoColor=d9a05b)
-![Docker](https://img.shields.io/badge/Docker-100f0d?style=flat-square&logo=docker&logoColor=d9a05b)
-![AWS](https://img.shields.io/badge/AWS-100f0d?style=flat-square&logo=amazonwebservices&logoColor=d9a05b)
-![Azure](https://img.shields.io/badge/Azure-100f0d?style=flat-square&logo=microsoftazure&logoColor=d9a05b)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-100f0d?style=flat-square&logo=githubactions&logoColor=d9a05b)
-![Claude Code](https://img.shields.io/badge/Claude_Code-100f0d?style=flat-square&logo=claude&logoColor=d9a05b)
+<img src="https://skillicons.dev/icons?i=php,laravel,postgres,mysql,supabase,ts,js,react,nextjs,tailwind&theme=dark&perline=10" alt="Stack principal"/>
+<br>
+<img src="https://skillicons.dev/icons?i=vite,threejs,docker,nginx,linux,aws,azure,vercel,githubactions,python&theme=dark&perline=10" alt="Infra e ferramentas"/>
+
+<br>
+
+![Claude Code](https://img.shields.io/badge/Claude_Code-100f0d?style=for-the-badge&logo=claude&logoColor=d9a05b)
+![PHPUnit](https://img.shields.io/badge/PHPUnit-100f0d?style=for-the-badge&logo=php&logoColor=d9a05b)
+![Sentry](https://img.shields.io/badge/Sentry-100f0d?style=for-the-badge&logo=sentry&logoColor=d9a05b)
+![Mercado Pago](https://img.shields.io/badge/Mercado_Pago-100f0d?style=for-the-badge&logo=mercadopago&logoColor=d9a05b)
 
 </div>
+
+<details>
+<summary><b>Ver detalhes por área</b></summary>
+<br>
 
 | Área | Tecnologias e práticas |
 |---|---|
@@ -68,39 +73,26 @@ Em paralelo, construo produtos para clientes reais e projetos próprios, cuidand
 | **Integrações** | Mercado Pago (PIX e cartão), webhooks assinados, Pusher, Laravel Echo e Leaflet |
 | **Qualidade** | PHPUnit, testes E2E, GitHub Actions, Sentry e code review |
 
-## Como uso IA no desenvolvimento
+</details>
 
-Uso o **Claude Code** dentro de um fluxo com etapas fixas, cada uma apoiada por skills específicas. A IA acelera a execução; arquitetura, validação e responsabilidade pelo código continuam comigo.
+<br>
 
-```mermaid
-flowchart LR
-    A[Discutir] --> B[Planejar] --> C[Executar] --> D[Verificar] --> E[Revisar] --> F[Entregar]
-    E -. ajustes .-> C
+## Projeto em destaque
 
-    classDef etapa fill:#100f0d,stroke:#d9a05b,color:#ffffff
-    class A,B,C,D,E,F etapa
-```
+<table>
+<tr>
+<td>
 
-| Etapa | Skills | O que garante |
-|---|---|---|
-| 01 · Discutir | `discuss` `spec` | Ambiguidades resolvidas e decisões registradas antes do código |
-| 02 · Planejar | `plan` | Tarefas com dependências e critérios de aceite verificáveis |
-| 03 · Executar | `execute` | Entregas em commits pequenos e rastreáveis |
-| 04 · Verificar | `verify` `add-tests` | Comportamento validado de ponta a ponta e critérios virando testes |
-| 05 · Revisar | `code-review` `security-review` `ui-review` | Bugs, riscos de segurança e problemas de interface pegos no diff |
-| 06 · Entregar | `ship` | PR aberto só com testes e CI verdes |
+### Guivya &nbsp;<sub><img src="https://img.shields.io/badge/em%20desenvolvimento-d9a05b?style=flat-square" alt="em desenvolvimento"/></sub>
 
-Fora do fluxo principal, uso `debug` para investigar bugs com hipótese e evidência, e `map-codebase` para entender um código antes de mexer nele.
+**Marketplace de passeios** que conecta turistas a guias locais de Ilhabela, no modelo dos apps de mobilidade: o turista pede, o guia tem **60 segundos** para aceitar, o pagamento é confirmado e os dois se encontram num ponto da ilha.
 
-No **Guivya**, esse processo conduziu auditorias de código com correções em lotes de PR, a migração do gateway de pagamento e uma política de CSP sem `unsafe-inline`.
-
-## Projetos
-
-### Guivya · marketplace de passeios
-
-**Laravel 12 · PostgreSQL · Pusher · Mercado Pago · Leaflet · Docker**
-
-Conecta turistas a guias locais de Ilhabela, no modelo dos apps de mobilidade: o turista pede, o guia tem 60 segundos para aceitar, o pagamento é confirmado e os dois se encontram num ponto da ilha.
+![Laravel 12](https://img.shields.io/badge/Laravel_12-100f0d?style=flat-square&logo=laravel&logoColor=d9a05b)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-100f0d?style=flat-square&logo=postgresql&logoColor=d9a05b)
+![Pusher](https://img.shields.io/badge/Pusher-100f0d?style=flat-square&logo=pusher&logoColor=d9a05b)
+![Mercado Pago](https://img.shields.io/badge/Mercado_Pago-100f0d?style=flat-square&logo=mercadopago&logoColor=d9a05b)
+![Leaflet](https://img.shields.io/badge/Leaflet-100f0d?style=flat-square&logo=leaflet&logoColor=d9a05b)
+![Docker](https://img.shields.io/badge/Docker-100f0d?style=flat-square&logo=docker&logoColor=d9a05b)
 
 ```mermaid
 stateDiagram-v2
@@ -114,34 +106,49 @@ stateDiagram-v2
     Pago --> EmAndamento
     EmAndamento --> Finalizada
     Pago --> Cancelada: no-show, reembolso
+
+    classDef ok fill:#100f0d,stroke:#d9a05b,color:#ffffff
+    classDef fim fill:#2b2117,stroke:#d9a05b,color:#d9a05b
+    class Pendente,Aceita,Agendado,Pago,EmAndamento ok
+    class Finalizada,Expirada,Cancelada fim
 ```
 
-- Máquina de estados em enum, com transições controladas e expiração automática
-- Mercado Pago com PIX e cartão, webhook assinado e reembolso automático de no-show
-- WebSockets para notificações e mapa ao vivo com guias e pontos turísticos
-- Passeios agendados com ativação por cron, lembretes T-24h/T-2h e geofence de chegada
-- 570+ testes, CI em PHP 8.2, 8.3 e 8.4, CSP sem `unsafe-inline` e Sentry
+| | |
+|---|---|
+| **Fluxo** | Máquina de estados em enum, com transições controladas e expiração automática |
+| **Pagamentos** | Mercado Pago com PIX e cartão, webhook assinado e reembolso automático de no-show |
+| **Tempo real** | WebSockets para notificações e mapa ao vivo com guias e pontos turísticos |
+| **Agendamento** | Ativação por cron, lembretes T-24h / T-2h e geofence de chegada |
+| **Qualidade** | 570+ testes, CI em PHP 8.2, 8.3 e 8.4, CSP sem `unsafe-inline` e Sentry |
 
-<sub>Em desenvolvimento · repositório privado</sub>
+<sub>Repositório privado · posso mostrar código e decisões numa conversa</sub>
 
-### No ar
+</td>
+</tr>
+</table>
+
+<br>
+
+## No ar
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**[Rotamar Ilhabela](https://www.rotamarilhabela.com.br/)** <sub>cliente real</sub>
+### [Rotamar Ilhabela](https://www.rotamarilhabela.com.br/)
+<img src="https://img.shields.io/badge/cliente%20real-2b2117?style=flat-square" alt="cliente real"/>
 
-Passeios de lancha e observação de baleias jubarte, com visualizador 3D da embarcação no navegador.
+Passeios de lancha e observação de baleias jubarte, com **visualizador 3D da embarcação** no navegador.
 
 `Three.js` `GLTF/Draco` `JSON-LD`
 
 </td>
 <td width="50%" valign="top">
 
-**[Importados da Ilha](https://www.importadosdailha.com.br/)** <sub>cliente real</sub>
+### [Importados da Ilha](https://www.importadosdailha.com.br/)
+<img src="https://img.shields.io/badge/cliente%20real-2b2117?style=flat-square" alt="cliente real"/>
 
-Loja de eletrônicos com painel administrativo, preço no PIX e parcelamento calculados por produto.
+Loja de eletrônicos com **painel administrativo**, preço no PIX e parcelamento calculados por produto.
 
 `Next.js` `TypeScript` `Supabase`
 
@@ -150,18 +157,20 @@ Loja de eletrônicos com painel administrativo, preço no PIX e parcelamento cal
 <tr>
 <td width="50%" valign="top">
 
-**[Pato Guia Ilhabela](https://www.patopasseioilhabela.com/)** <sub>cliente real</sub>
+### [Pato Guia Ilhabela](https://www.patopasseioilhabela.com/)
+<img src="https://img.shields.io/badge/cliente%20real-2b2117?style=flat-square" alt="cliente real"/>
 
-Site de guia local, mobile-first e sem nenhuma dependência externa.
+Site de guia local, **mobile-first** e sem nenhuma dependência externa.
 
 `HTML` `CSS` `JavaScript`
 
 </td>
 <td width="50%" valign="top">
 
-**[TOTI](https://www.eutoti.com.br/)** <sub>cliente real</sub>
+### [TOTI](https://www.eutoti.com.br/)
+<img src="https://img.shields.io/badge/cliente%20real-2b2117?style=flat-square" alt="cliente real"/>
 
-Site oficial de artista, com discografia do Spotify e vídeos do YouTube integrados.
+Site oficial de artista, com **discografia do Spotify** e vídeos do YouTube integrados.
 
 `HTML` `CSS` `JavaScript`
 
@@ -170,18 +179,20 @@ Site oficial de artista, com discografia do Spotify e vídeos do YouTube integra
 <tr>
 <td width="50%" valign="top">
 
-**[Ilha dos Tesouros](https://ilha-tesouro.vercel.app/)** <sub>projeto próprio</sub>
+### [Ilha dos Tesouros](https://ilha-tesouro.vercel.app/)
+<img src="https://img.shields.io/badge/projeto%20pr%C3%B3prio-d9a05b?style=flat-square" alt="projeto próprio"/>
 
-Jogo web 3D multiplayer com física, ranking e loja integrada.
+**Jogo web 3D multiplayer** com física, ranking e loja integrada.
 
 `React Three Fiber` `Rapier` `Supabase`
 
 </td>
 <td width="50%" valign="top">
 
-**[Detector de Cores](https://github.com/vanngilha/color-detector)** <sub>estudo</sub>
+### [Detector de Cores](https://github.com/vanngilha/color-detector)
+<img src="https://img.shields.io/badge/estudo-555555?style=flat-square" alt="estudo"/>
 
-Identificação de cores em tempo real pela webcam, com visão computacional.
+Identificação de cores **em tempo real pela webcam**, com visão computacional.
 
 `Python` `OpenCV`
 
@@ -189,18 +200,69 @@ Identificação de cores em tempo real pela webcam, com visão computacional.
 </tr>
 </table>
 
-<sub>Sistemas corporativos e boa parte dos projetos de clientes ficam em repositórios privados. Posso mostrar código e decisões de arquitetura numa conversa.</sub>
+<sub>Sistemas corporativos e boa parte dos projetos de clientes ficam em repositórios privados.</sub>
+
+<br>
+
+## Como uso IA no desenvolvimento
+
+Uso o **Claude Code** dentro de um fluxo com etapas fixas, cada uma apoiada por skills específicas. **A IA acelera a execução; arquitetura, validação e responsabilidade pelo código continuam comigo.**
+
+```mermaid
+flowchart LR
+    A[Discutir] --> B[Planejar] --> C[Executar] --> D[Verificar] --> E[Revisar] --> F[Entregar]
+    E -. ajustes .-> C
+
+    classDef etapa fill:#100f0d,stroke:#d9a05b,color:#ffffff
+    class A,B,C,D,E,F etapa
+```
+
+<details>
+<summary><b>Ver skills de cada etapa</b></summary>
+<br>
+
+| Etapa | Skills | O que garante |
+|---|---|---|
+| **01 · Discutir** | `discuss` `spec` | Ambiguidades resolvidas e decisões registradas antes do código |
+| **02 · Planejar** | `plan` | Tarefas com dependências e critérios de aceite verificáveis |
+| **03 · Executar** | `execute` | Entregas em commits pequenos e rastreáveis |
+| **04 · Verificar** | `verify` `add-tests` | Comportamento validado de ponta a ponta e critérios virando testes |
+| **05 · Revisar** | `code-review` `security-review` `ui-review` | Bugs, riscos de segurança e problemas de interface pegos no diff |
+| **06 · Entregar** | `ship` | PR aberto só com testes e CI verdes |
+
+Fora do fluxo principal, uso `debug` para investigar bugs com hipótese e evidência, e `map-codebase` para entender um código antes de mexer nele.
+
+</details>
+
+No **Guivya**, esse processo conduziu auditorias de código com correções em lotes de PR, a migração do gateway de pagamento e uma política de CSP sem `unsafe-inline`.
+
+<br>
 
 ## Certificações
 
-[CS50x · Harvard University](https://certificates.cs50.io/81532b44-9b96-4a68-bf98-cd162cff7011.pdf?size=letter) &nbsp;·&nbsp; [AWS Educate · Introdução à Nuvem 101](https://www.credly.com/badges/c719bd98-a004-432f-9f88-b9613179c0a8/public_url) &nbsp;·&nbsp; [AWS Educate · Segurança na Nuvem](https://www.credly.com/badges/b033e451-6ff9-42ac-ae50-4d585974dcfa/public_url)
+<div align="center">
 
-## Contato
+[![CS50x Harvard](https://img.shields.io/badge/CS50x-Harvard_University-100f0d?style=for-the-badge&logo=harvard&logoColor=d9a05b&labelColor=2b2117)](https://certificates.cs50.io/81532b44-9b96-4a68-bf98-cd162cff7011.pdf?size=letter)
+[![AWS Cloud 101](https://img.shields.io/badge/AWS_Educate-Introdu%C3%A7%C3%A3o_%C3%A0_Nuvem_101-100f0d?style=for-the-badge&logo=amazonwebservices&logoColor=d9a05b&labelColor=2b2117)](https://www.credly.com/badges/c719bd98-a004-432f-9f88-b9613179c0a8/public_url)
+[![AWS Security](https://img.shields.io/badge/AWS_Educate-Seguran%C3%A7a_na_Nuvem-100f0d?style=for-the-badge&logo=amazonwebservices&logoColor=d9a05b&labelColor=2b2117)](https://www.credly.com/badges/b033e451-6ff9-42ac-ae50-4d585974dcfa/public_url)
+
+</div>
+
+<br>
+
+## Vamos conversar?
 
 <div align="center">
+
+Tem uma vaga, um projeto ou um sistema legado precisando de cuidado? **Me chama.**
+
+<br>
 
 [![Portfólio](https://img.shields.io/badge/chrisoliveira.dev-100f0d?style=for-the-badge&logo=googlechrome&logoColor=d9a05b)](https://www.chrisoliveira.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-100f0d?style=for-the-badge&logo=linkedin&logoColor=d9a05b)](https://www.linkedin.com/in/chriisoliveira)
 [![Email](https://img.shields.io/badge/ceo@chrisoliveira.dev-100f0d?style=for-the-badge&logo=gmail&logoColor=d9a05b)](mailto:ceo@chrisoliveira.dev)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-100f0d?style=for-the-badge&logo=whatsapp&logoColor=d9a05b)](https://api.whatsapp.com/send?phone=5512991065780)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b2117,100:100f0d&height=120&section=footer" width="100%" alt=""/>
 
 </div>
