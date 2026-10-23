@@ -179,12 +179,12 @@ Site oficial de artista, com **discografia do Spotify** e vídeos do YouTube int
 <tr>
 <td width="50%" valign="top">
 
-### [Ilha dos Tesouros](https://ilha-tesouro.vercel.app/)
+### [Seventeen Tides](https://github.com/vanngilha/seventeen-tides)
 <img src="https://img.shields.io/badge/projeto%20pr%C3%B3prio-d9a05b?style=flat-square" alt="projeto próprio"/>
 
-**Jogo web 3D multiplayer** com física, ranking e loja integrada.
+**Jogo 3D de sobrevivência** num arquipélago sem fim, com jangada, clima dinâmico e vila. Roda no navegador e no Windows, com atualização automática.
 
-`React Three Fiber` `Rapier` `Supabase`
+`React Three Fiber` `Rapier` `Supabase` `Electron`
 
 </td>
 <td width="50%" valign="top">
@@ -245,6 +245,18 @@ No **Guivya**, esse processo conduziu auditorias de código com correções em l
 [![CS50x Harvard](https://img.shields.io/badge/CS50x-Harvard_University-100f0d?style=for-the-badge&logo=harvard&logoColor=d9a05b&labelColor=2b2117)](https://certificates.cs50.io/81532b44-9b96-4a68-bf98-cd162cff7011.pdf?size=letter)
 [![AWS Cloud 101](https://img.shields.io/badge/AWS_Educate-Introdu%C3%A7%C3%A3o_%C3%A0_Nuvem_101-100f0d?style=for-the-badge&logo=amazonwebservices&logoColor=d9a05b&labelColor=2b2117)](https://www.credly.com/badges/c719bd98-a004-432f-9f88-b9613179c0a8/public_url)
 [![AWS Security](https://img.shields.io/badge/AWS_Educate-Seguran%C3%A7a_na_Nuvem-100f0d?style=for-the-badge&logo=amazonwebservices&logoColor=d9a05b&labelColor=2b2117)](https://www.credly.com/badges/b033e451-6ff9-42ac-ae50-4d585974dcfa/public_url)
+
+</div>
+
+<br>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vanngilha/vanngilha/output/snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vanngilha/vanngilha/output/snake-light.svg"/>
+  <img alt="Cobrinha comendo o gráfico de contribuições" src="https://raw.githubusercontent.com/vanngilha/vanngilha/output/snake-dark.svg"/>
+</picture>
 
 </div>
 
