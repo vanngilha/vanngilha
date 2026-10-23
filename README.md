@@ -4,9 +4,9 @@
 
 Mantenho e modernizo sistemas de gestão pública que rodam em produção todos os dias na iiBrasil, desde 2020. Fora dela, construo produtos do domínio ao deploy. Gosto de domínio bem modelado, de transação que não perde dinheiro e de mudar código legado sem quebrar o que funciona.
 
-[![Portfólio](https://img.shields.io/badge/chrisoliveira.dev-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.chrisoliveira.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-2563eb?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chriisoliveira)
-[![Email](https://img.shields.io/badge/ceo@chrisoliveira.dev-2563eb?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ceo@chrisoliveira.dev)
+<a href="https://www.chrisoliveira.dev"><b>chrisoliveira.dev</b></a> &nbsp;·&nbsp;
+<a href="https://www.linkedin.com/in/chriisoliveira"><img src="https://skillicons.dev/icons?i=linkedin" height="18" align="center" alt=""/> LinkedIn</a> &nbsp;·&nbsp;
+<a href="mailto:ceo@chrisoliveira.dev"><img src="https://skillicons.dev/icons?i=gmail" height="18" align="center" alt=""/> ceo@chrisoliveira.dev</a>
 
 <img src="https://skillicons.dev/icons?i=php,laravel,postgres,mysql,docker,nginx,linux,githubactions,js,ts,react,nextjs&theme=light" alt="PHP, Laravel, PostgreSQL, MySQL, Docker, Nginx, Linux, GitHub Actions, JavaScript, TypeScript, React, Next.js"/>
 
