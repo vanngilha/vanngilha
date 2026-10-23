@@ -22,7 +22,7 @@
   <tr>
     <td align="center" width="170"><h2>6+</h2><sub>anos em produção</sub></td>
     <td align="center" width="170"><h2>570+</h2><sub>testes automatizados</sub></td>
-    <td align="center" width="170"><h2>5</h2><sub>produtos no ar</sub></td>
+    <td align="center" width="170"><h2>3</h2><sub>sites de clientes no ar</sub></td>
     <td align="center" width="170"><h2>8.2 → 8.4</h2><sub>matriz de CI em PHP</sub></td>
   </tr>
 </table>
@@ -129,7 +129,7 @@ stateDiagram-v2
 
 <br>
 
-## No ar
+## Outros projetos
 
 <table>
 <tr>
@@ -167,34 +167,12 @@ Site de guia local, **mobile-first** e sem nenhuma dependência externa.
 </td>
 <td width="50%" valign="top">
 
-### [TOTI](https://www.eutoti.com.br/)
-<img src="https://img.shields.io/badge/cliente%20real-2b2117?style=flat-square" alt="cliente real"/>
-
-Site oficial de artista, com **discografia do Spotify** e vídeos do YouTube integrados.
-
-`HTML` `CSS` `JavaScript`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [Seventeen Tides](https://github.com/vanngilha/seventeen-tides)
-<img src="https://img.shields.io/badge/projeto%20pr%C3%B3prio-d9a05b?style=flat-square" alt="projeto próprio"/>
-
-**Jogo 3D de sobrevivência** num arquipélago sem fim, com jangada, clima dinâmico e vila. Roda no navegador e no Windows, com atualização automática.
-
-`React Three Fiber` `Rapier` `Supabase` `Electron`
-
-</td>
-<td width="50%" valign="top">
-
 ### [Detector de Cores](https://github.com/vanngilha/color-detector)
-<img src="https://img.shields.io/badge/estudo-555555?style=flat-square" alt="estudo"/>
+<img src="https://img.shields.io/badge/c%C3%B3digo%20aberto-d9a05b?style=flat-square" alt="código aberto"/> <img src="https://img.shields.io/badge/CS50x-Harvard-2b2117?style=flat-square" alt="CS50x Harvard"/>
 
-Identificação de cores **em tempo real pela webcam**, com visão computacional.
+Nome, RGB e HEX de qualquer cor **em tempo real pela webcam**, com visão computacional. [Ver demonstração ↗](https://www.youtube.com/watch?v=SoSC_lMgSrE)
 
-`Python` `OpenCV`
+`Python` `OpenCV` `Pandas`
 
 </td>
 </tr>
