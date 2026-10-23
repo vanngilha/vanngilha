@@ -4,11 +4,11 @@
 
 Mantenho e modernizo sistemas de gestão pública que rodam em produção todos os dias na iiBrasil, desde 2020. Fora dela, construo produtos do domínio ao deploy. Gosto de domínio bem modelado, de transação que não perde dinheiro e de mudar código legado sem quebrar o que funciona.
 
-[![Portfólio](https://img.shields.io/badge/chrisoliveira.dev-0d0c0b?style=for-the-badge&logo=googlechrome&logoColor=e0a458)](https://www.chrisoliveira.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0c0b?style=for-the-badge&logo=linkedin&logoColor=e0a458)](https://www.linkedin.com/in/chriisoliveira)
-[![Email](https://img.shields.io/badge/ceo@chrisoliveira.dev-0d0c0b?style=for-the-badge&logo=gmail&logoColor=e0a458)](mailto:ceo@chrisoliveira.dev)
+[![Portfólio](https://img.shields.io/badge/chrisoliveira.dev-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.chrisoliveira.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-2563eb?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chriisoliveira)
+[![Email](https://img.shields.io/badge/ceo@chrisoliveira.dev-2563eb?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ceo@chrisoliveira.dev)
 
-<img src="https://skillicons.dev/icons?i=php,laravel,postgres,mysql,docker,nginx,linux,githubactions,js,ts,react,nextjs&theme=dark" alt="PHP, Laravel, PostgreSQL, MySQL, Docker, Nginx, Linux, GitHub Actions, JavaScript, TypeScript, React, Next.js"/>
+<img src="https://skillicons.dev/icons?i=php,laravel,postgres,mysql,docker,nginx,linux,githubactions,js,ts,react,nextjs&theme=light" alt="PHP, Laravel, PostgreSQL, MySQL, Docker, Nginx, Linux, GitHub Actions, JavaScript, TypeScript, React, Next.js"/>
 
 <br>
 
